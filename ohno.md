@@ -121,3 +121,19 @@
 ... someone imports outdated landuse.
 
 ... someone maps a school as a node, but the recreation ground as an area.
+
+... someone converts a turn restriction to a multipolygon.
+
+... someone adds redundant nodes on a straight way.
+
+... a node is moved halfway around the world.
+
+... the coordinates stored in OSM lose one bit of precision.
+
+... someone uses `addr:place` and `addr:street`.
+
+... iD gets stuck in one position.
+
+... one of your changesets is downvoted on OSMCha.
+
+... someone wipes a bay off the map.
