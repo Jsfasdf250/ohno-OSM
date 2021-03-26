@@ -45,7 +45,7 @@ Double left click on an object (area or multipolygon) will select the object (go
 
 To get perfect pentagon hexagon or octagon (for example, if creating gazebos)  draw a 5, 6 or 8 sided way, then press `O` , `Tools → Align Nodes in a Circle`.
 
-If you have programable buttons on your mouse, set them to your most used shortcuts.  examples: `Q`, `]`, `DEL`, `CTRL+Z`.
+If you have programmable buttons on your mouse, set them to your most used shortcuts.  examples: `Q`, `]`, `DEL`, `CTRL+Z`.
 
 In extrude mode, double click on an existing way to create a new node at that point. This gives fine grained control on what you extrude.
 
